@@ -1,7 +1,7 @@
 package task4.model;
 
-import lombok.*;
-
+import lombok.EqualsAndHashCode;
+import lombok.Getter;
 
 @Getter
 //@AllArgsConstructor
