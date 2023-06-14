@@ -1,4 +1,4 @@
-package work6.src.work1;
+package task6.work6.src.work1;
 
 // Прямоугольник
 public class Rectangle {

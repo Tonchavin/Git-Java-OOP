@@ -1,4 +1,4 @@
-package work6.src.Work3;
+package task6.work6.src.Work3;
 
 public class Greeter {
     private String formality;

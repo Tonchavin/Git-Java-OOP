@@ -1,12 +1,10 @@
-package work6.src.work2;
+package task6.work6.src.work2;
 
-public class DocumentReportGenerator implements ReportGenerator {
+public class AccountReportGenerator implements ReportGenerator {
 
     @Override
     public String generateXml() {
-        String report = "";
-        // todo Logic
-        return report;
+        throw new UnsupportedOperationException();
     }
 
     @Override

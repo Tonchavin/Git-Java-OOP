@@ -1,4 +1,4 @@
-package work6.src;
+package task6.work6.src;
 
 public class Main {
     public static void main(String[] args) {

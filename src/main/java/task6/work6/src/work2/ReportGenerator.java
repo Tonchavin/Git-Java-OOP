@@ -1,4 +1,4 @@
-package work6.src.work2;
+package task6.work6.src.work2;
 
 public interface ReportGenerator {
     String generateXml();
