@@ -1,19 +1,18 @@
 package task6.work6.src.Work3;
 
-public class Greeter {
+public class Greeter implements formality {
     private String formality;
 
+    public Greeter(String formality) {
+        this.formality = formality;
+    }
+
     public String greet() {
-        switch (this.formality) {
-            case "formal":
-                return "Good evening, sir.";
-            case "casual":
-                return "Sup bro?";
-            case "intimate":
-                return "Hello Darling!";
-            default:
-                return "Hello.";
-        }
+        return null;
+    }
+
+    public String getFormality() {
+        return formality;
     }
 
     public void setFormality(String formality) {

@@ -4,15 +4,11 @@ public class DocumentReportGenerator implements ReportGenerator {
 
     @Override
     public String generateXml() {
-        String report = "";
-        // todo Logic
-        return report;
+        return null;
     }
 
     @Override
     public String generateJson() {
-        String report = "";
-        // todo Logic
-        return report;
+        return null;
     }
 }

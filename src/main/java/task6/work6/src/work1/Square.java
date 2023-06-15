@@ -3,14 +3,17 @@ package task6.work6.src.work1;
 // Квадрат
 public class Square extends Rectangle {
 
-    public void setHeight(int height) {
-        this.height = height;
-        this.width = height;
+    public Square(int height, int width) {
+        super(height, width);
     }
 
     @Override
-    public void setWidth(int width) {
-        this.width = width;
-        this.height = width;
+    public int getHeight() {
+        return super.getHeight();
+    }
+
+    @Override
+    public int getWidth() {
+        return super.getWidth();
     }
 }
