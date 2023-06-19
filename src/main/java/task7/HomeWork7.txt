@@ -1,0 +1,22 @@
+В семинаре использовался паттерн Adapter(для работы с другим датчиком), Observer(шаблон который в себе хранит методы для
+работы с наблюдателями),Decorator
+
+
+
+В семинаре использовались принципы:
+    1)Dependency Inversion Principle (Принцип инверсии зависимостей)
+    2)Open Closed Principle (Принцип открытости/закрытости)
+
+
+
+
+
+
+
+
+Принципы SOLID:
+Single Responsibility Principle (Принцип единственной ответственности).
+Open Closed Principle (Принцип открытости/закрытости).
+Liskov’s Substitution Principle (Принцип подстановки Барбары Лисков).
+Interface Segregation Principle (Принцип разделения интерфейса).
+Dependency Inversion Principle (Принцип инверсии зависимостей).
