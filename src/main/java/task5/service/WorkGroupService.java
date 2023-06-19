@@ -18,7 +18,7 @@ public class WorkGroupService {
         return workGroupList(teacher,studentsList);
     }
 
-    public List<WorkGroup> getAll() {
+    public static List<WorkGroup> getAll() {
         return null;
     }
 }
